@@ -1,0 +1,18 @@
+.contenedorcolumnas{
+    background-color: #0079bf;
+    color: black;
+    display: flex;
+    font-family: sans-serif;
+    font-weight: bold;
+    gap: 50px; /*Espaciado entre los flex*/
+}
+
+.tareas-container {
+    background-color: #ebecf0;
+    flex-basis: 100%;
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    margin-top: 5px;
+  }
